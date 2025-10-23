@@ -1,6 +1,6 @@
 I'm starting this journal to help me get a job as a full-stack engineer and document my journey for myself, too.
 
-Already built a [full-stack web app](https://williamrosenberg.com) that my paying accent coaching clients use.
+I've already built a [full-stack web app](https://williamrosenberg.com) that my paying accent coaching clients use.
 
 I've really been enjoying developing software and want to spend way more of my time doing that... and less time making Instagram Reels, marketing, selling, and so on. Social media is bumming me out, and I don't like having my income tied to that.
 
