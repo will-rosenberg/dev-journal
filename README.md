@@ -4,7 +4,7 @@ Already built a [full-stack web app](https://williamrosenberg.com) that my payin
 
 I've really been enjoying developing software and want to spend way more of my time doing that (and less time making Instagram Reels, marketing, selling, and so on - social media is bumming me out).
 
-So I've decided to get a full-time job as a full-stack engineer. (I plan to keep running my accent coaching business on the side, but in a much lighter way.)
+So I've decided to get a full-time job as a full-stack engineer. (I plan to keep running my accent coaching business on the side, but in a much lighter way - probably more focused on product and less focused on marketing.)
 
 This is my record of this journey.
 
