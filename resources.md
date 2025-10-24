@@ -22,7 +22,7 @@ Challenges
 Documentation
 - https://www.w3schools.com/
 - https://developer.mozilla.org/en-US/
--https://tc39.es/ecma262/
+- https://tc39.es/ecma262/
 - https://whatwg.org/
 - https://www.w3.org/
 - https://www.w3.org/TR/WCAG22/#text-alternatives
