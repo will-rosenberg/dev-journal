@@ -1,0 +1,15 @@
+String properties
+- returns number
+  - `s.length`
+  - `s.indexOf("abc")` || `s.lastIndexOf("abc")`
+- returns boolean
+  - `s.includes("abc")`
+  - `s.startsWith("abc")` || `s.endsWith("abc")`
+- returns string
+  - `s[i]` || `s.charCodeAt(i)`
+  - `s.slice(i,j)`
+  - `s.replace("a","b")` || `s.replaceAll("a","b")`
+  - `s.toLowerCase()` || `s.toUpperCase()`
+  - `s.trim()`
+- returns array
+  - `s.split('')`
