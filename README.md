@@ -1,4 +1,8 @@
-I'm starting this journal to help me get a job as a full-stack engineer and document my journey for myself, too.
+I'm starting this journal to document my journey to get a job as a full-stack engineer and beyond (ongoing skill improvements, etc).
+
+It's primarily for myself (so it may be messy, high amounts of detail, etc), but I may use it to create more audience-friendly formats, too.
+
+And regarding my journey as a full-stack engineer:
 
 I've already built a [full-stack web app](https://williamrosenberg.com) that my paying accent coaching clients use.
 
