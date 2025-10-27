@@ -10,7 +10,9 @@ Thu:
 
 Fri:
 
-Sat/Sun:
+Sat:
+
+Sun:
 
 Summary:
 
